@@ -1,3 +1,5 @@
 no se puede ver por que el tp2_1_2 esta en la rama Opcion_2 y estamos en la rama principal (otra rama en la que no esta)
 
  gitk –all me muestra todos los commit de la rama en la que estoy parado
+
+ al combinar las ramas se ven todos los commits (de ambas ramas)
